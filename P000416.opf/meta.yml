@@ -1,175 +1,208 @@
-id: opecha:P000416
+id: P000416
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD76231
   title: མི་ཕམ་གསུང་འབུམ་ལས་གཞུང་འགྲེལ་སྐོར།
-  volume:
+  author: ''
+  volumes:
     61ece7c9193e4b808f191536f2186f8e:
       image_group_id: I1PD84560
       title: Volume 1 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 1
       total_pages: 324
+      base_file: v001.txt
     228d7eab47674cccabb3de5aafc09aa9:
       image_group_id: I1PD84561
       title: Volume 2 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 2
       total_pages: 230
+      base_file: v002.txt
     7cd2e6aff970473da4e81b8dbeed30b6:
       image_group_id: I1PD84562
       title: Volume 3 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 3
       total_pages: 358
+      base_file: v003.txt
     91c3eec151344801be783847bdeb5056:
       image_group_id: I1PD84563
       title: Volume 4 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 4
       total_pages: 484
+      base_file: v004.txt
     a3e15f4b324a4d6c97b35eff9cde41ab:
       image_group_id: I1PD84564
       title: Volume 5 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 5
       total_pages: 295
+      base_file: v005.txt
     17a99e26a8fe42a1835f41d465f6dad5:
       image_group_id: I1PD84565
       title: Volume 6 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 6
       total_pages: 430
+      base_file: v006.txt
     c177a5213f3e45169c97a271d5b01cd2:
       image_group_id: I1PD84566
       title: Volume 7 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 7
       total_pages: 390
+      base_file: v007.txt
     c7917f85a85743198bedaf0eb5b34558:
       image_group_id: I1PD84567
       title: Volume 8 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 8
       total_pages: 346
+      base_file: v008.txt
     c4a2f2d6f1f14173b97899685032ad9e:
       image_group_id: I1PD84568
       title: Volume 9 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 9
       total_pages: 242
+      base_file: v009.txt
     324ddb982c614c8a8e740b331e626a91:
       image_group_id: I1PD84569
       title: Volume 10 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 10
       total_pages: 290
+      base_file: v010.txt
     f544f27917304276bd3c31a3f2d65f00:
       image_group_id: I1PD84570
       title: Volume 11 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 11
       total_pages: 484
+      base_file: v011.txt
     cb437a9af891497dbb5e0a0852b29ae8:
       image_group_id: I1PD84571
       title: Volume 12 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 12
       total_pages: 314
+      base_file: v012.txt
     878fe399f3ce4efb9faf6ec42caf67c0:
       image_group_id: I1PD84572
       title: Volume 13 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 13
       total_pages: 260
+      base_file: v013.txt
     1cd8548c8221447faa669fc4ff761e5b:
       image_group_id: I1PD84573
       title: Volume 14 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 14
       total_pages: 370
+      base_file: v014.txt
     afb63a73a5fa425c83a0d242206e05bc:
       image_group_id: I1PD84574
       title: Volume 15 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 15
       total_pages: 306
+      base_file: v015.txt
     f4394afb618c4d6caec0b5aaacc16efb:
       image_group_id: I1PD84575
       title: Volume 16 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 16
       total_pages: 220
+      base_file: v016.txt
     ab5ebd8129704bc18669b35942e79181:
       image_group_id: I1PD84576
       title: Volume 17 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 17
       total_pages: 328
+      base_file: v017.txt
     a6a8089406fd41a98a72b11111b9a5c1:
       image_group_id: I1PD84577
       title: Volume 18 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 18
       total_pages: 330
+      base_file: v018.txt
     37a3fb99540d43d4adf3dfed24c793a3:
       image_group_id: I1PD84578
       title: Volume 19 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 19
       total_pages: 328
+      base_file: v019.txt
     fe81a7ea70074cb58441ebcb430cc7a0:
       image_group_id: I1PD84579
       title: Volume 20 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 20
       total_pages: 316
+      base_file: v020.txt
     b9875549fdb8481ba9178456b6d5d7bc:
       image_group_id: I1PD84580
       title: Volume 21 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 21
       total_pages: 426
+      base_file: v021.txt
     50abe8ffe9524b1d960f73ddabfca913:
       image_group_id: I1PD84581
       title: Volume 22 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 22
       total_pages: 472
+      base_file: v022.txt
     3ed22d8755734168b660bc29a3208c2a:
       image_group_id: I1PD84582
       title: Volume 23 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 23
       total_pages: 262
+      base_file: v023.txt
     20c8d792ad904c268ebb9120c079a3a9:
       image_group_id: I1PD84583
       title: Volume 24 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 24
       total_pages: 302
+      base_file: v024.txt
     cf443f4997ee4b16905276ed2e4b30db:
       image_group_id: I1PD84584
       title: Volume 25 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 25
       total_pages: 370
+      base_file: v025.txt
     05dce825870748c080c1397260a73e2e:
       image_group_id: I1PD84585
       title: Volume 26 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 26
       total_pages: 340
+      base_file: v026.txt
     20883fce07c842c2acedbfaafb38f050:
       image_group_id: I1PD84586
       title: Volume 27 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 27
       total_pages: 266
+      base_file: v027.txt
     231bc03ff4bf4eb5b47112e27ddadeb4:
       image_group_id: I1PD84587
       title: Volume 28 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 28
       total_pages: 264
+      base_file: v028.txt
     3c828ff10d1440a6befb5f7f9b2f3452:
       image_group_id: I1PD84588
       title: Volume 29 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 29
       total_pages: 468
+      base_file: v029.txt
     4ee4597f70a14684a49708828a6a465f:
       image_group_id: I1PD84589
       title: Volume 30 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 30
       total_pages: 392
+      base_file: v030.txt
     d53f09577a4c4444b116ba64b3715ec0:
       image_group_id: I1PD84590
       title: Volume 31 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 31
       total_pages: 180
+      base_file: v031.txt
     bd182a55d2af40629b5f57a7155d39c9:
       image_group_id: I1PD84591
       title: Volume 32 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 32
       total_pages: 366
+      base_file: v032.txt
     0515782bb56b44f480c63b18fdf22a42:
       image_group_id: I1PD84592
       title: Volume 33 of mi pham gsung 'bum las gzhung 'grel skor
       volume_number: 33
       total_pages: 298
-  author: ''
+      base_file: v033.txt
 ebook_metadata:
   title: མི་ཕམ་གསུང་འབུམ་ལས་གཞུང་འགྲེལ་སྐོར།
   author: ''
