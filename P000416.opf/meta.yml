@@ -1,5 +1,7 @@
 id: P000416
 initial_creation_type: ocr
+created_at: 21/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1PD76231
   title: མི་ཕམ་གསུང་འབུམ་ལས་གཞུང་འགྲེལ་སྐོར།
@@ -203,10 +205,3 @@ source_metadata:
       volume_number: 33
       total_pages: 298
       base_file: v033.txt
-ebook_metadata:
-  title: མི་ཕམ་གསུང་འབུམ་ལས་གཞུང་འགྲེལ་སྐོར།
-  author: ''
-  sku: P000416
-  cover: cover.jpg
-  layers:
-  - pagination
